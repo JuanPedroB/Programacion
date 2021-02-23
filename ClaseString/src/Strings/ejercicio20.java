@@ -6,11 +6,9 @@ public class ejercicio20 {
 		
 		
 		String cadena = "HOLA";
-		String retorno = "";
 		
 		System.out.println(cadena);
-		retorno = cadena.toLowerCase();
-		System.out.println(retorno);
+		System.out.println(cadena.toLowerCase());
 
 	}
 
